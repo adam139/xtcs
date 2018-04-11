@@ -6,6 +6,8 @@
     margin: 7px 15px 4px;
     padding:0;
 }
+p{text-indent:2em}
+p.noindent {text-indent:0}
 #search_input{width:100%}
 #headerlogo{margin-top:-5px}
 .no-padding{background-color:#dcecff}
