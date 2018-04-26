@@ -1,11 +1,11 @@
 .navbar-brand {
     float: left;
     font-size: 18px;
-    height: 36px;
+    height: 43px;
     line-height: 20px;
     padding: 2px 15px;
 }
-.navbar-brand img{height:32px}
+.navbar-brand img{padding:5px 0}
 #personaltools-login {padding-right:24px}
 p{text-indent:2em}
 p.noindent {text-indent:0}
@@ -74,6 +74,7 @@ img.right{float:right}
 .navbar-inner{line-height:20px;font-size:14px;font-weight:700}
 .pagination {margin-left:auto;margin-right:auto;width:100%}
 div.mce-fullscreen{z-index:1031} 
+.navbar-toggle{margin-top:4px}
 .navbar-toggle,.navbar-toggle .icon-bar {border: 1px solid #FFF;}
 .plone-navbar .livesearch-results {color:#333333}
 body.template-allorgnization_listings #portal-breadcrumbs{display:none}
