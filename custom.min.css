@@ -81,3 +81,5 @@ body.template-allorgnization_listings #portal-breadcrumbs{display:none}
 .page-header{border-bottom:none}
 #profile td,#profile th{text-align:center}
 #profile .text-left,#profile .title{text-align:left}
+.footer .sign{font-size:90%;text-indent:0}
+#portal-footer-wrapper .pull-right{border-bottom:none}
