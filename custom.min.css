@@ -1,3 +1,13 @@
+ .required::after {
+    color: #c4183c;
+    content: "•";
+    font-size: 200%;
+    line-height: 0;
+    margin-left: -4px;
+    position: relative;
+    top: 7px;
+}
+.ajaxform {font-size:120%;line-height:1.2}
 .navbar-brand {
     float: left;
     font-size: 18px;
